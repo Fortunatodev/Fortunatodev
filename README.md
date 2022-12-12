@@ -22,6 +22,6 @@
 
 <div align="center">
   <a href="https://github.com/Fortunatodev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlissonDahlem&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fortunatodev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunatodev&layout=compact&langs_count=7&theme=react"/> 
 </div>
