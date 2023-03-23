@@ -21,9 +21,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
 </div
 
-<div align="center">
-  <a href="https://github.com/Fortunatodev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fortunatodev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunatodev&layout=compact&langs_count=7&theme=react"/> 
+<div>
+  <a align="center" href="https://github.com/Fortunatodev">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Fortunatodev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunatodev&layout=compact&langs_count=7&theme=react"/> 
 </div>
   </div>
