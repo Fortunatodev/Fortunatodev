@@ -27,8 +27,6 @@
 
 ![Matheus´s GitHub stats](https://github-readme-stats.vercel.app/api?username=fortunadev&show_icons=true&theme=tokyonight)
  </div>
-------------
 
-<div>
-# Thanks for your time! <img src="https://user-images.githubusercontent.com/89549102/228119368-aa5a74ac-cb36-45a2-ad37-44844ff8d798.gif" width="50" height="50">
-  </div>
+
+
