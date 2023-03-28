@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34&fontColor=2A2B2E&height=225&animation=twinkling&section=header&text=>%20Hello!%20I'm%20Matheus&fontSize=65&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&fontColor=2A2B2E&height=225&animation=twinkling&section=header&text=>%20Hello!%20I'm%20EMatheus&fontSize=65&fontAlignY=40)
 <h3 align="center">I’m a Front Web Developer located in Brazil.</h3>
 
 - 🌱 I’m currently learning **javascript and React**
