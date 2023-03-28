@@ -25,8 +25,10 @@
 
 
 <div align="center">
+
 ![Matheus´s GitHub stats](https://github-readme-stats.vercel.app/api?username=fortunadev&show_icons=true&theme=tokyonight)
- </div>
+
+</div>
 
 
 
