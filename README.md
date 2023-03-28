@@ -23,9 +23,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enioschaefer&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortunatodev&layout=compact)
 
-![Enio's GitHub stats](https://github-readme-stats.vercel.app/api?username=enioschaefer&show_icons=true&theme=tokyonight)
+![Enio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortunadev&show_icons=true&theme=tokyonight)
 
 ------------
 
