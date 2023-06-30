@@ -16,6 +16,7 @@
       'CSS 3',
       'React'
       'SPA'
+      'Jest'
   ],
 ```
 <div>
