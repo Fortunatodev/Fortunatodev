@@ -1,28 +1,61 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&fontColor=2A2B6E&height=225&animation=twinkling&section=header&text=>%20Hello!%20I'm%20Matheus&fontSize=63&fontAlignY=40)
 <h3 align="center">I’m a Front Web Developer located in Brazil. 🚀</h3>
 
-- 🌱 I’m currently learning **javascript and React**
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/matheus-fortunato-7b8a8521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusfortunato" height="30" width="40" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Fernando+Dias;Desenvolvedor+Front-End;Seja+bem+vindo!+)](https://git.io/typing-svg)
+
+<div align="center"> 
+<a href = "mailto:contatomatheusfortunato@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-fortunato-7b8a8521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ <br>
+
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 </p>
+<br>
 
-```JavaScript
-  programming languages: ['JavaScript'],
-  tools: [
-      'Javascript',
-      'HTML 5',
-      'CSS 3',
-      'React'
-      'Jest'
-  ],
-```
-<div>
-<p align="center" style="display: block; margin: 0 auto"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FortunatoDev&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=41E1CF&text_color=c9d1d9&bg_color=0d1117" alt="FortunatoDev github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortunatoDev&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+<br>
+
+### Minhas skills:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,git," />
+</div>
+<br/>
+
+### Estudando neste momento:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,typescript,express," />
+</div>
+<br>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FernandoDias-dev&bg_color=0d1117&color=41e1cf&line=4169e1&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+
+<div align="center">
+<br><p align="centre"><b>contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FortunatoDev}/count.svg" /></p> 
+<br>
+</div>
+<br>
+
+<div align="center">
+  <h2>Minhas contribuições</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 
 <div align="center">
 
