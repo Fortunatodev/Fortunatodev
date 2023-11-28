@@ -56,7 +56,7 @@
 
 <div align="center">
 <br><p align="centre"><b>contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FernandoDias-dev}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FortunatoDev}/count.svg" /></p> 
 <br>
 </div>
 <br>
