@@ -44,6 +44,23 @@
 </div>
 <br>
 
+### Estudando neste momento:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,typescript,express," />
+</div>
+<br>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FernandoDias-dev&bg_color=0d1117&color=41e1cf&line=4169e1&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+
+<div align="center">
+<br><p align="centre"><b>contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FernandoDias-dev}/count.svg" /></p> 
+<br>
+</div>
+<br>
+
 <div align="center">
   <h2>Minhas contribuições</h2>
   <br>
